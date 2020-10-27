@@ -8,3 +8,5 @@ https://repo.realmcode.com
 https://discord.gg/XjQrNFn
 # Repl.it
 https://repl.it/@he1ios or [alt] https://repl.it/@sn0wstar (nothing rly in alt)
+
+![L4xus's github stats](https://github-readme-stats.vercel.app/api?username=L4xus)](https://github.com/anuraghazra/github-readme-stats)
