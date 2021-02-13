@@ -1,2 +1,2 @@
-https://camo.githubusercontent.com/ce1508c43e7566734aad56ff261a6c529fb95b62742da8d3ae251d7db53ac1ba/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d596b6d4d6f7267616e267374796c653d666c61742d73717561726526636f6c6f723d626c756576696f6c6574
+![](https://komarev.com/ghpvc/?username=sakurai07)
 ![Lord Meliodas's github stats](https://github-readme-stats.vercel.app/api?username=Sakurai07&count_private=true&theme=radical)
