@@ -2,6 +2,8 @@
 
 ![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=Sakurai07&count_private=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurai07&layout=compact&langs_count=8&theme=dark">
+
 # Social Media
 Discord : Sakurai07#8893
 
