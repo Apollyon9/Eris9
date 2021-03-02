@@ -10,6 +10,6 @@ Discord : Sakurai07#8893
 Twitter : Sakurai072
 
 # Alt
-<a href="https://github.com/l4xus07/">@L4xus07</a>
+<a href="https://github.com/Dem0nstar/">@Dem0nstar</a>
 
 I have also been known as l4xus but before I could make my alt that, the name was taken 12hrs before
