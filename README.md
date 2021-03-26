@@ -1,11 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=sakurai07)
 
-![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=Sakurai07&count_private=true&theme=radical)
+![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=Kaneki07&count_private=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurai07&layout=compact&langs_count=8&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaneki07&layout=compact&langs_count=8&theme=dark">
+
+# Call me wut?
+
+just call me #8851 since I keep on changing my git name ig
+
 
 # Social Media
-Discord : Sakurai07#8893
+Discord : 𝘬𝘢𝘯𝘦𝘬𝘪#8851
 
 Twitter : Sakurai072
 
