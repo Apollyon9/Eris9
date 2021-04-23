@@ -10,7 +10,7 @@ just call me Kaneki since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Kaneki#9876
+Discord : Eris#9876
 
 Twitter : Sakurai072
 
