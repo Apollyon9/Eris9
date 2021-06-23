@@ -19,6 +19,10 @@ Twitter : Sakurai072
 
 I have also been known as l4xus but before I could make my alt that, the name was taken 12hrs before
 
+### Currently working on.
+
+Discord bots such as cerebrus, synth and deF
+
 ### Thoughts
 
 Ace has left RIP
