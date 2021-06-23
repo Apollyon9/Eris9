@@ -18,3 +18,7 @@ Twitter : Sakurai072
 <a href="https://github.com/Dem0nstar/">@Dem0nstar</a>
 
 I have also been known as l4xus but before I could make my alt that, the name was taken 12hrs before
+
+### Thoughts
+
+Ace has left RIP
