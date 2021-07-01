@@ -26,3 +26,9 @@ Discord bots such as cerebrus, synth and deF
 ### Thoughts
 
 Ace has left RIP
+
+### old names:
+- lordme1iodas
+- L4xus
+- Sakurai07
+- Kaneki07
