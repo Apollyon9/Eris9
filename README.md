@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=sakurai07)
 
-![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=eris9&count_private=true&theme=radical)
+![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=apollyon9&count_private=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eris9&layout=compact&langs_count=8&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollyon9&layout=compact&langs_count=8&theme=dark">
 
 ### Call me wut?
 
@@ -28,6 +28,7 @@ Discord bots such as cerebrus, synth and deF
 Ace has left RIP
 
 ### old names:
+- Eris9
 - lordme1iodas
 - L4xus
 - Sakurai07
