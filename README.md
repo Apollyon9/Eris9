@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=sakurai07)
 
-![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=k0nami&count_private=true&theme=radical)
+![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=ak4shi&count_private=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0nami&layout=compact&langs_count=8&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak4shi&layout=compact&langs_count=8&theme=dark">
 
 ### Call me wut?
 
@@ -34,3 +34,4 @@ Ace has left RIP
 - L4xus
 - Sakurai07
 - Kaneki07
+- k0nami
