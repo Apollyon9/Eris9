@@ -6,11 +6,11 @@
 
 ### Call me wut?
 
-just call me Kaneki since I keep on changing my git name ig
+just call me Ne0n since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Kaneki#9624
+Discord : Ne0n#3707
 
 Twitter : Sakurai072
 
