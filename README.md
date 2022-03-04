@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=sakurai07)
 
-![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=ehnryu&count_private=true&theme=radical)
+![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=N30nyx&count_private=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehnryu&layout=compact&langs_count=8&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N30nyx&layout=compact&langs_count=8&theme=dark">
 
 ### Call me wut?
 
@@ -28,6 +28,7 @@ I have also been known as l4xus but before I could make my alt that, the name wa
 Ace has left RIP
 
 ### old names:
+- Ehnryu
 - Ak4shi
 - Apollyon9
 - Eris9
