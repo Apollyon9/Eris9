@@ -6,7 +6,7 @@
 
 ### Call me wut?
 
-just call me Ne0n since I keep on changing my git name ig
+just call me Avarice since I keep on changing my git name ig
 
 
 ### Social Media
