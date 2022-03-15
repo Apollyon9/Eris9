@@ -6,11 +6,11 @@
 
 ### Call me wut?
 
-just call me Avarice since I keep on changing my git name ig
+just call me Aether since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Avarice#3707
+Discord : Aether#3707
 
 Twitter : Sakurai072
 
