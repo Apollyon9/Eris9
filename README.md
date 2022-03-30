@@ -6,11 +6,11 @@
 
 ### Call me wut?
 
-just call me Aether since I keep on changing my git name ig
+just call me Seha since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Aether#3707
+Discord : Sorrow#8171 or Seha#4994
 
 Twitter : Sakurai072
 
