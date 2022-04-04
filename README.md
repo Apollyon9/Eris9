@@ -2,6 +2,8 @@
 
 ![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=N30nyx&count_private=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n30nyx&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N30nyx&layout=compact&langs_count=8&theme=dark">
 
 ### Call me wut?
