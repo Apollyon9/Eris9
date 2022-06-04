@@ -12,7 +12,7 @@ just call me Seha since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Sorrow#8171 or 313#2003
+Discord : Split#8565 or Eris#2003
 
 Twitter : Sakurai072
 
