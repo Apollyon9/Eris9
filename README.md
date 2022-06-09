@@ -6,7 +6,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N30nyx&layout=compact&langs_count=8&theme=dark">
 
-### Call me wut?
+CURRENTLY WORKING ON [NEON](https://top.gg/bot/769514287948496916) (waiting approval)
+
+### Call me?
 
 just call me Seha since I keep on changing my git name ig
 
@@ -14,7 +16,7 @@ just call me Seha since I keep on changing my git name ig
 ### Social Media
 Discord : Split#8565 or Eris#2003
 
-Twitter : Sakurai072
+
 
 ### Alt
 <a href="https://github.com/Dem0nstar/">@Dem0nstar</a>
