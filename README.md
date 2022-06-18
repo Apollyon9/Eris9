@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N30nyx&layout=compact&langs_count=8&theme=dark">
 
-CURRENTLY WORKING ON [NEON](https://top.gg/bot/769514287948496916) (waiting approval)
+CURRENTLY WORKING ON [NEON](https://top.gg/bot/769514287948496916) (Approved!!)
 
 ### Call me?
 
