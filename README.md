@@ -10,6 +10,8 @@ I like messing with apple device internals however, sadly that usually ISN'T wit
 
 Currently trying to learn C-sharp aka brain damage
 
+**OPEN TO JOIN ANY PROJECTS**
+
 ### Call me?
 
 just call me Seha since I keep on changing my git name ig
