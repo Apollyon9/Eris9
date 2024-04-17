@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=wynwxst)
+
 
 ![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=wynwxst&count_private=true&theme=radical)
 
