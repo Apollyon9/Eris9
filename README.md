@@ -2,11 +2,13 @@
 
 ![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=wynwxst&count_private=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wynwxst&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+My favourite language is uh cobra.. not python, definitely not.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynwxst&layout=compact&langs_count=8&theme=dark">
+Just a really bored person with too much time on their hands
 
-Just a reall bored person with too much time on their hands
+I like messing with apple device internals however, sadly that usually ISN'T with python unless we count pylera1n or ipwdfu 
+
+Currently trying to learn C-sharp aka brain damage
 
 ### Call me?
 
@@ -19,10 +21,21 @@ Discord : Sigoltteugi
 
 ### Currently working on.
 So actually I was sitting below a tree and an apple hit m-
+
 Okay maybe I'm not Newton
+
 Alright so I'm working on a nove-
+
+Fine... you got me- I'm playing guita-
+
+Funnily enough, I'm managing to do all of the above besides the apple thing
+
 😭idk where I'm going with this but here's what I'm working on:
+
+
 <a href="https://github.com/wynwxst/redra1n">Trying to automate the drivers for openra1n, about 4/5ths of the way. All that's left is signing infs</a>
+
+
 <a href="https://github.com/wynwxst/reshell">A somehow functioning albeit barely shell</a>
 ### Thoughts
 None
