@@ -1,12 +1,12 @@
-![](https://komarev.com/ghpvc/?username=sakurai07)
+![](https://komarev.com/ghpvc/?username=wynwxst)
 
-![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=N30nyx&count_private=true&theme=radical)
+![Sakurai07's github stats](https://github-readme-stats.vercel.app/api?username=wynwxst&count_private=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n30nyx&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wynwxst&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N30nyx&layout=compact&langs_count=8&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynwxst&layout=compact&langs_count=8&theme=dark">
 
-CURRENTLY WORKING ON [NEON](https://top.gg/bot/769514287948496916) (Approved!!)
+Just a reall bored person with too much time on their hands
 
 ### Call me?
 
@@ -14,30 +14,15 @@ just call me Seha since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Split#8565 or Eris#2003
+Discord : Sigoltteugi
 
-
-
-### Alt
-<a href="https://github.com/Dem0nstar/">@Dem0nstar</a>
-
-I have also been known as l4xus but before I could make my alt that, the name was taken 12hrs before
 
 ### Currently working on.
-
-<a href="https://github.com/ehnryu/Joker-v2">Joker v2 - Dare to crawl the dungeon?</a>
-
+So actually I was sitting below a tree and an apple hit m-
+Okay maybe I'm not Newton
+Alright so I'm working on a nove-
+😭idk where I'm going with this but here's what I'm working on:
+<a href="https://github.com/wynwxst/redra1n">Trying to automate the drivers for openra1n, about 4/5ths of the way. All that's left is signing infs</a>
+<a href="https://github.com/wynwxst/reshell">A somehow functioning albeit barely shell</a>
 ### Thoughts
-
-Ace has left RIP
-
-### old names:
-- Ehnryu
-- Ak4shi
-- Apollyon9
-- Eris9
-- lordme1iodas
-- L4xus
-- Sakurai07
-- Kaneki07
-- k0nami
+None
