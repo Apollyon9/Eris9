@@ -18,7 +18,7 @@ just call me Seha since I keep on changing my git name ig
 
 
 ### Social Media
-Discord : Sigoltteugi
+Discord : briar0se
 
 
 ### Currently working on.
