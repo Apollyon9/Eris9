@@ -6,7 +6,7 @@ My favourite language is uh cobra.. not python, definitely not.
 
 Just a really bored person with too much time on their hands
 
-I like messing with apple device internals however, sadly that usually ISN'T with python unless we count pylera1n or ipwdfu 
+I like messing with apple device internals however, sadly that usually ISN'T with python unless we count pylera1n or ipwndfu 
 
 Currently trying to learn C-sharp aka brain damage
 
