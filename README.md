@@ -38,6 +38,6 @@ Funnily enough, I'm managing to do all of the above besides the apple thing
 <a href="https://github.com/wynwxst/redra1n">Trying to automate the drivers for openra1n, about 4/5ths of the way. All that's left is signing infs</a>
 
 
-<a href="https://github.com/wynwxst/reshell">A somehow functioning albeit barely shell</a>
+<a href="https://github.com/wynwxst/reshell">A somehow functioning albeit barely shell</a> (Still on private for now until I pull away from my checkm8 experiments)
 ### Thoughts
 None
