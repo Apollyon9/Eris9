@@ -8,7 +8,7 @@ Just a really bored person with too much time on their hands
 
 I like messing with apple device internals however, sadly that usually ISN'T with python unless we count pylera1n or ipwndfu 
 
-Currently trying to learn C-sharp aka brain damage
+Currently trying to learn C++ which is surprisingly reasonable
 
 **OPEN TO JOIN ANY PROJECTS**
 
@@ -34,10 +34,7 @@ Funnily enough, I'm managing to do all of the above besides the apple thing
 
 😭idk where I'm going with this but here's what I'm working on:
 
+Making a programming language that is in between high level and low level. So far expect around a month more before the v1.0 release.
 
-<a href="https://github.com/wynwxst/redra1n">Trying to automate the drivers for openra1n, about 4/5ths of the way. All that's left is signing infs</a>
-
-
-<a href="https://github.com/wynwxst/reshell">A somehow functioning albeit barely shell</a> (Still on private for now until I pull away from my checkm8 experiments)
 ### Thoughts
 None
