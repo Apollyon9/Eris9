@@ -12,14 +12,6 @@ Currently trying to learn C++ which is surprisingly reasonable
 
 **OPEN TO JOIN ANY PROJECTS**
 
-### Call me?
-
-just call me Seha since I keep on changing my git name ig
-
-
-### Social Media
-Discord : briar0se
-
 
 ### Currently working on.
 So actually I was sitting below a tree and an apple hit m-
